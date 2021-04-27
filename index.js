@@ -8,6 +8,8 @@ const WIDTH = 2500;
 const HEIGHT = 2500;
 const STEP = 40;
 
+// Don't change below
+
 const X_MIN = -WIDTH / STEP / 2
 const X_MAX =  WIDTH / STEP / 2
 const Y_MIN = -HEIGHT / STEP / 2
